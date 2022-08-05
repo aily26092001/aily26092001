@@ -1,16 +1,27 @@
-### Hi there 👋
+Hi , I'm Tuấn Đạt 
+Alway look back because you never know what you will lost next
+🙋‍♂️ About Me
+🌱Data Structures? I like it!!
 
-<!--
-**aily26092001/aily26092001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍩 All of my projects are available at My Portfolio
 
-Here are some ideas to get you started:
+📫 How to reach me phamtuandat16072001@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact like to meet bugs one way legit (not joke) .
+
+Latest Projects 📚
+None
+
+🚀 Languages:
+       
+
+Framworks 💦
+
+
+Version control 💣
+
+
+Tool 🐳
+
+
+Connect with me:
