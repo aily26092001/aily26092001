@@ -28,7 +28,9 @@ None
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    
     <a style="padding-right:8px;" href="https://codelearn.io/learning/c-for-beginners" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="44px"; /></a>
+    
 
     
 </p>
@@ -39,13 +41,6 @@ None
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     
  </p>
-## 🚀 Database:
-<a style="padding-right:8px;" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="44px";/> </a>
-<a>
-<a style="padding-right:8px;" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img src="https://img.icons8.com/ios/50/000000/sql.png"width="44px";/> </a>
-<a>
-
-</a>
 
  ## Version control 💣
 <p align="left">
