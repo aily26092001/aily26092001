@@ -40,9 +40,8 @@ None
     
  </p>
 ## 🚀 Database:
+<a style="padding-right:8px;" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="44px";/> </a>
 <a>
-<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb">
-</a>
 <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img src="https://img.icons8.com/ios/50/000000/sql.png"width="44px";/> </a>
 <a>
 
