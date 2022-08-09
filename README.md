@@ -1,23 +1,13 @@
-<h1 align="center">Hi , I'm Ly <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Alway look back because you never know what you will lost next</h3>
-
-
+<h1 align="center">Hi 👋, I'm Ai Ly</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h3 align="center">I'm from Vietnam </h3>
 
 ## 🙋‍♂️ About Me
-
-
-- 🌱**Data Structures**? I like it!!
-
-
-
-- 🍩 All of my projects are available at **[My Portfolio](https://...com)**
-
+- ✍ I'm a student of: [Ho Chi Minh city University of Food Industry](https://hufi.edu.vn/) (HUFI).
+- 🌱 I’m currently learning **Information Technology**
 - 📫 How to reach me **buithiaily2609@gmail.com**
 
-- ⚡ Fun fact **like to meet bugs one way legit (not joke) .**
 
-## Latest Projects 📚
-None
 
 ## 🚀 Languages:
 
@@ -36,42 +26,47 @@ None
 
     
 
-## Framworks 💦
+## 💦 Framworks 
 
 <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:10px;" href="https://getbootstrap.com" target="_blank" > <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
      <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="44px"/> </a> 
 
  </p>
  
 
 
- ## DataBase 📫
+ ## 📫 DataBase 
  <p align="left"> 
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img src="https://img.icons8.com/ios/50/000000/sql.png"width="44px";/> </a>
-     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="44px";/> </a>
-     <a style="padding-right:8px;" href="https://docs.oracle.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"width="44px";/> </a>
-      <a style="padding-right:8px;" href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"width="44px";/> </a>
+    <a style="padding-right:10px;" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" >
+    <img src="https://img.icons8.com/ios/50/000000/sql.png"width="44px";/> </a>
+     <a style="padding-right:10px;" href="https://www.mongodb.com/" target="_blank" >
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="44px";/> </a>
+     <a style="padding-right:10px;" href="https://docs.oracle.com/en/" target="_blank" >
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"width="44px";/> </a>
+      <a style="padding-right:10px;" href="https://redis.io/" target="_blank" >
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"width="44px";/> </a>
      
  </p>
 
- ## Version control 💣
+ ## 💣 Version control 
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="44px"/> </a> 
 </p>
 
-## Tool 🐳
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="44px"/> </a> 
-</p>
 
 
 
+##  📫 How to reach me:
 
-
-
-## Connect with me:
-
-<a href = "https://www.facebook.com/buithiaily.profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40px"/></a>
-
+<p align="center">
+  <a href = "https://www.facebook.com/buithiaily.profile">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40px"/></a>
+  
+  <a href="https://github.com/aily26092001" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:buithiaily2609@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
 </p>
